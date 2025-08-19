@@ -1,19 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Md. Meherab Hossen | Portfolio</title>
-  <style>
-    body { font-family: Arial, sans-serif; margin: 0; padding: 0; }
-    header { background: #1a1a1a; color: white; padding: 20px; text-align: center; }
-    nav { background: #333; padding: 10px; text-align: center; }
-    nav a { color: white; margin: 0 15px; text-decoration: none; }
-    nav a:hover { text-decoration: underline; }
-    section { padding: 40px; }
-    footer { background: #1a1a1a; color: white; text-align: center; padding: 10px; }
-  </style>
-</head>
 <body>
   <header>
     <h1>Md. Meherab Hossen</h1>
