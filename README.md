@@ -59,7 +59,7 @@
   </section>
 
   <footer>
-    <p>© 2025 Md. Meherab Hossen |  Portfolio Website</p>
+    <p>© 2025 Md. Meherab Hossen | Portfolio Website</p>
   </footer>
 </body>
 </html>
