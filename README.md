@@ -1,32 +1,79 @@
-body {
-  font-family: Arial, sans-serif;
-  margin: 0; padding: 0;
-  line-height: 1.6;
-  background: #f9f9f9;
-  color: #333;
-}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Md. Meherab Hossen | Portfolio</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 0; padding: 0; }
+    header { background: #1a1a1a; color: white; padding: 20px; text-align: center; }
+    nav { background: #333; padding: 10px; text-align: center; }
+    nav a { color: white; margin: 0 15px; text-decoration: none; }
+    nav a:hover { text-decoration: underline; }
+    section { padding: 40px; }
+    footer { background: #1a1a1a; color: white; text-align: center; padding: 10px; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Md. Meherab Hossen</h1>
+    <p>Mechanical Engineering Student | CFD Researcher</p>
+  </header>
 
-header {
-  background: #1a1a1a; color: white;
-  padding: 20px; text-align: center;
-}
+  <nav>
+    <a href="#about">About</a>
+    <a href="#skills">Skills</a>
+    <a href="#projects">Projects</a>
+    <a href="#achievements">Achievements</a>
+    <a href="#contact">Contact</a>
+  </nav>
 
-nav {
-  background: #333; padding: 10px; text-align: center;
-}
+  <section id="about">
+    <h2>About Me</h2>
+    <p>
+      I am a Mechanical Engineering student at Ahsanullah University of Science and Technology (AUST), 
+      passionate about CFD, fluid mechanics, and energy systems.
+    </p>
+  </section>
 
-nav a {
-  color: white; margin: 0 15px; text-decoration: none; font-weight: bold;
-}
+  <section id="skills">
+    <h2>Skills</h2>
+    <ul>
+      <li>ANSYS Fluent, COMSOL, OpenFOAM</li>
+      <li>MATLAB, Python, Arduino, C++</li>
+      <li>SolidWorks, AutoCAD</li>
+      <li>Thermal Energy Storage, Flow Boiling, Phase Change Materials</li>
+    </ul>
+  </section>
 
-nav a:hover { text-decoration: underline; }
+  <section id="projects">
+    <h2>Projects & Research</h2>
+    <h3>CFD Analysis of Packed Bed Thermal Energy Storage</h3>
+    <p>Simulation of PCM-based packed bed system using ANSYS Fluent.</p>
+    <h3>Flow Boiling in Constricted Microchannels</h3>
+    <p>Numerical study of bubble dynamics and heat transfer enhancement.</p>
+    <h3>Arduino Sensor Project</h3>
+    <p>Developed a sensor-based system with Arduino Uno. 🏆 1st Place Award.</p>
+  </section>
 
-section {
-  padding: 40px; max-width: 900px; margin: auto;
-}
+  <section id="achievements">
+    <h2>Credentials & Achievements</h2>
+    <ul>
+      <li>MATLAB Onramp Certified (MathWorks)</li>
+      <li>Arduino-based Sensor Project – 1st Place</li>
+      <li>Strong academic performance in Mechanical Engineering</li>
+    </ul>
+  </section>
 
-h2 { color: #1a1a1a; }
+  <section id="contact">
+    <h2>Contact</h2>
+    <p>🌍 Portfolio: <a href="https://sites.google.com/view/mdmeherabhossen/">Google Site</a></p>
+    <p>💼 LinkedIn: <a href="https://www.linkedin.com/in/md-meherab-hossen/">LinkedIn</a></p>
+    <p>📧 Email: <a href="mailto:meherabhossen3085@gmail.com">meherabhossen3085@gmail.com</a></p>
+  </section>
 
-footer {
-  background: #1a1a1a; color: white; text-align: center; padding: 15px;
-}
+  <footer>
+    <p>© 2025 Md. Meherab Hossen | Portfolio Website</p>
+  </footer>
+</body>
+</html>
