@@ -63,10 +63,3 @@
   </footer>
 </body>
 </html>
-
-
-  <footer>
-    © 2025 Md. Meherab Hossen | Portfolio Website
-  </footer>
-</body>
-</html>
