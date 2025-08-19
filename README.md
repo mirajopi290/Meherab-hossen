@@ -32,7 +32,7 @@
   </section>
 
   <footer>
-    © 2025 Md. Meherab Hossen | Portfolio Website
+    © 2025 Md. Meherab Hossen |  Portfolio Website
   </footer>
 </body>
 </html>
