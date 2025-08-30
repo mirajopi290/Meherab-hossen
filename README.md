@@ -84,7 +84,7 @@
 
   <!-- Contact Section -->
   <section id="contact">
-    <h2>Get in Touch</h2>
+    <h2>Reach me</h2>
     <form action="#" method="post">
       <input type="text" name="name" placeholder="Your Name" required>
       <input type="email" name="email" placeholder="Your Email" required>
