@@ -54,7 +54,7 @@
     <h2>My Education</h2>
     <div class="edu-item">
       <h3>Bachelor of Science in Mechanical Engineering</h3>
-      <p>Ahsanullah University of Science & Technology — 2021-Present</p>
+      <p>Ahsanullah University of Science & Technology — 2022-Present</p>
     </div>
     <div class="edu-item">
       <h3>HSC Science</h3>
